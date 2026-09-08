@@ -60,6 +60,7 @@ Three years of QA/test-automation experience redirected into building production
 </table>
 
 ## 🛠️ Stack
+<div align="center">
 
 ![Python](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LANGCHAIN-black?style=for-the-badge)

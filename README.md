@@ -63,7 +63,6 @@ Three years of QA/test-automation experience redirected into building production
 
 ![Python](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LANGCHAIN-black?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LANGGRAPH-black?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/STREAMLIT-black?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 ![FastAPI](https://img.shields.io/badge/FASTAPI-black?style=for-the-badge&logo=fastapi&logoColor=00C853)
 ![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=F05032)

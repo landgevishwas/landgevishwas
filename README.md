@@ -10,11 +10,11 @@
 
 ## ⚡ About
 
-My journey into AI started in 2023, while working as a **QA Engineer** — three years spent across manual testing, automation, API testing, and Selenium. When tools like ChatGPT went mainstream, what caught my attention wasn't that AI could answer questions — it was that it could **reason, generate code, and automate real workflows**.
+My journey into AI started in 2023, while working as a **QA Engineer** — three years spent across manual testing, automation, API testing, and Selenium. When ChatGPT went mainstream, I started using it out of curiosity. What really caught my attention wasn’t just that it could answer questions. It could help write code, solve problems, understand context, and automate things that normally took much more time.
 
-That's when I realized: I don't just want to use AI, I want to **build with AI**. My QA background shaped how I approach this — testing taught me to think systematically, spot edge cases, debug relentlessly, and care about reliability. I now apply those same instincts to building intelligent systems instead of only testing them.
+That's when I realized: I don't just want to use AI, I want to **build with AI**. My experience in QA has actually helped me a lot in this journey. Testing taught me to think about edge cases, break problems down, debug things patiently, and always question whether something is actually reliable. Now I’m trying to bring that same mindset into building AI applications.
 
-Today I'm focused on **Generative AI and Agentic AI** — LLMs, RAG, AI agents, multi-agent systems, LangGraph, and MCP — turning that learning into practical projects like **Scam Detector**, **SpecSense AI**, and **HireFlow**.
+Today I'm focused on **Generative AI and Agentic AI** — LLMs, RAG, AI agents, multi-agent systems, and Langchain — turning that learning into practical projects like **Scam Detector**, **SpecSense AI**, and **HireFlow**.
 
 My long-term goal: become an AI Engineer and eventually an **AI product builder** — shipping systems that solve real business and user problems.
 
@@ -25,7 +25,7 @@ My long-term goal: become an AI Engineer and eventually an **AI product builder*
 <td width="50%" valign="top">
 
 ### 🛡️ Scam Detector
-AI-powered system that analyzes messages, calls, or content to flag likely scams and fraud patterns in real time.
+AI-powered system that analyzes messages, or content to flag likely scams and fraud patterns in real time.
 
 ![](https://img.shields.io/badge/type-fraud%20detection-2563EB)
 
@@ -58,8 +58,6 @@ Three years of QA/test-automation experience redirected into building production
 </td>
 </tr>
 </table>
-
-> ✏️ *Replace the descriptions above with your real one-liners, and add a metric badge under each (e.g. `accuracy 92%`, `time saved 10min → 30s`) once you have numbers.*
 
 ## 🛠️ Stack
 

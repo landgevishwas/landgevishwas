@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwas-landge-8919a4255) [![Email](https://img.shields.io/badge/EMAIL-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:landge.vishwas.vl@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+the+Future+with+Artificial+Intelligence;QA+Engineer+%E2%86%92+AI+Engineer;LLMs+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+LangGraph)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+the+Future+with+Artificial+Intelligence;QA+Engineer+%E2%86%92+AI+Engineer;LLMs+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+LangChain)](https://git.io/typing-svg)
 
 </div>
 

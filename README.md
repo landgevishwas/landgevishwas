@@ -53,7 +53,7 @@ Agentic workflow that automates parts of the hiring pipeline — from screening 
 ### 🤖 Askly
 Enterprise AI HelpDesk Assistant using Agentic RAG, Hybrid Search, Reranking, Gemini, and Conversation Memory.
 
-![](https://img.shields.io/badge/type-recruiting%20automation-2563EB)
+![](https://img.shields.io/badge/type-chatbot%20-2563EB)
 
 </td>
 <td width="50%" valign="top">

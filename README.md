@@ -63,7 +63,7 @@ Enterprise AI HelpDesk Assistant using Agentic RAG, Hybrid Search, Reranking, Ge
 ### 🧭 QA → AI Engineer
 Three years of QA/test-automation experience redirected into building production-grade AI systems and agentic architectures.
 
-![](https://img.shields.io/badge/background-QA%20%E2%86%92%20AI-black)
+![](https://img.shields.io/badge/background-QA%20%E2%86%92%20AI-2563EB)
 
 </td>
 </tr>

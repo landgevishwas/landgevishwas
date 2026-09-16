@@ -27,7 +27,7 @@ My long-term goal: become an AI Engineer and eventually an **AI product builder*
 ### 🛡️ Scam Detector
 AI-powered system that analyzes messages, or content to flag likely scams and fraud patterns in real time.
 
-![](https://img.shields.io/badge/type-fraud%20detection-2563EB)
+![](https://img.shields.io/badge/Type-Fraud%20Detection-2563EB)
 
 </td>
 <td width="50%" valign="top">
@@ -35,7 +35,7 @@ AI-powered system that analyzes messages, or content to flag likely scams and fr
 ### 📋 SpecSense AI
 An AI agent that reads and interprets requirements/specs — turning unstructured documents into structured, actionable insight.
 
-![](https://img.shields.io/badge/type-requirement%20intelligence-2563EB)
+![](https://img.shields.io/badge/Type-Requirement%20Intelligence-2563EB)
 
 </td>
 </tr>
@@ -45,7 +45,7 @@ An AI agent that reads and interprets requirements/specs — turning unstructure
 ### 💼 HireFlow
 Agentic workflow that automates parts of the hiring pipeline — from screening to structured candidate evaluation.
 
-![](https://img.shields.io/badge/type-recruiting%20automation-2563EB)
+![](https://img.shields.io/badge/Type-Recruiting%20Automation-2563EB)
 
 </td>
 <td width="50%" valign="top">
@@ -53,7 +53,7 @@ Agentic workflow that automates parts of the hiring pipeline — from screening 
 ### 🤖 Askly
 Enterprise AI HelpDesk Assistant using Agentic RAG, Hybrid Search, Reranking, Gemini, and Conversation Memory.
 
-![](https://img.shields.io/badge/type-chatbot-2563EB)
+![](https://img.shields.io/badge/Type-Chatbot-2563EB)
 
 </td>
 </tr>
@@ -63,7 +63,7 @@ Enterprise AI HelpDesk Assistant using Agentic RAG, Hybrid Search, Reranking, Ge
 ### 🧭 QA → AI Engineer
 Three years of QA/test-automation experience redirected into building production-grade AI systems and agentic architectures.
 
-![](https://img.shields.io/badge/background-QA%20%E2%86%92%20AI-2563EB)
+![](https://img.shields.io/badge/Background-QA%20%E2%86%92%20AI-2563EB)
 
 </td>
 </tr>

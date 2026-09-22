@@ -14,7 +14,7 @@ My journey into AI started in 2023, while working as a **QA Engineer** — three
 
 That's when I realized: I don't just want to use AI, I want to **build with AI**. My experience in QA has actually helped me a lot in this journey. Testing taught me to think about edge cases, break problems down, debug things patiently, and always question whether something is actually reliable. Now I’m trying to bring that same mindset into building AI applications.
 
-Today I'm focused on **Generative AI and Agentic AI** — LLMs, RAG, AI agents, multi-agent systems, and Langchain — turning that learning into practical projects like **Scam Detector**, **SpecSense AI**, and **HireFlow**.
+Today I'm focused on **Generative AI and Agentic AI** — LLMs, RAG, AI agents, multi-agent systems, and Langchain — turning that learning into practical projects like **Scam Detector**, **SpecSense AI**, **HireFlow**, and **Askly**.
 
 My long-term goal: become an AI Engineer and eventually an **AI product builder** — shipping systems that solve real business and user problems.
 

@@ -16,6 +16,7 @@ That's when I realized: I don't just want to use AI, I want to **build with AI**
 
 Today I'm focused on **Generative AI and Agentic AI** — LLMs, RAG, AI agents, multi-agent systems, and Langchain — turning that learning into practical projects like **Scam Detector**, **SpecSense AI**, **HireFlow**, and **Askly**.
 
+My long-term goal: become an AI Engineer and eventually an **AI product builder** — shipping systems that solve real business and user problems.
 
 ## 🚀 Featured Work
 

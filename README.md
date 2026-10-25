@@ -1,3 +1,4 @@
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2563EB&height=220&section=header&text=Vishwas%20Landge&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%26amp%3B%20Agentic%20AI%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
